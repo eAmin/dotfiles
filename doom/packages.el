@@ -55,6 +55,7 @@
 
 ;; Theme
 (package! catppuccin-theme)
+(package! batppuccin)
 
 ;; Better debugging
 (package! dape)
